@@ -6,6 +6,6 @@ export default async (message) => {
 
   await bot.sendMessage(
     message.chat.id,
-    "I can send you your movies, Please join our group"
+    "For getting books and for JEE/NEET preparation join my group @TJMANforever"
   );
 };
